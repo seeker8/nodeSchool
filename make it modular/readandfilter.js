@@ -1,5 +1,5 @@
 var fs = require('fs'),
-    path = require('path')
+    path = require('path'),
     files = [];
 
 var readAndFilter = function(dir, ext, callback){
