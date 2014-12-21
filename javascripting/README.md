@@ -11,3 +11,4 @@ Javascripting
 7. Rounding Numbers
 8. Number to String
 9. IF Statement
+10. FOR Loop
