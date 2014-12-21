@@ -9,3 +9,4 @@ Javascripting
 5. Revising Strings
 6. Numbers
 7. Rounding Numbers
+8. Number to String
