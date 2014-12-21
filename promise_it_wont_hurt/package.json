@@ -1,0 +1,15 @@
+{
+  "name": "promise_it_wont_hurt",
+  "version": "1.0.0",
+  "description": "Solutions for Promise it won't hurt workshop",
+  "main": "app.js",
+  "dependencies": {
+    "q": "^1.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "seeker8",
+  "license": "ISC"
+}
